@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Mali707
 - 👀 I’m interested in Getting rich off WebDev
 - 🌱 I’m currently learning Frontend Web Development
-- 💞️ I’m looking to collaborate on Designing Comprehensive Websites to enhance user experience
+- 💞️ I’m looking to collaborate on Designing Comprehensive Websites to enhance user sales
 - 📫 How to reach me Gmail @morganmalachi437@gmail.com
-- 😄 Pronouns: King/His Heighness
+- 😄 Pronouns: Brother/His Heighness
 - ⚡ Fun fact: I am A King
 
 <!---
