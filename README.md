@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Mali707
-- 👀 I’m interested in Getting rich off WebDev
-- 🌱 I’m currently learning Frontend Web Development
-- 💞️ I’m looking to collaborate on Designing Comprehensive Websites to enhance user sales
+- 👋 Hi, I’m @Mali777
+- 👀 I’m interested in becoming good at coding and Web Development
+- 🌱 I’m currently learning Full Stack Web Development
+- 💞️ I’m looking to collaborate on Designing Comprehensive Websites to enhance user 
 - 📫 How to reach me Gmail @morganmalachi437@gmail.com
 - 😄 Pronouns: Brother/His Heighness
-- ⚡ Fun fact: I am A King
+- ⚡ Fun fact: I am Vegan
 
 <!---
 payyy2play/payyy2play is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
