@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Designing Comprehensive Websites to enhance user experience
 - 📫 How to reach me gmail @morganmalachi437@gmail.com
 - 😄 Pronouns: Brother/His Heighness
-- ⚡ Fun fact: I am Vegan of 2 years
+- ⚡ Fun fact: I am Vegan since 2023 years
 
 <!---
 payyy2play/payyy2play is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
